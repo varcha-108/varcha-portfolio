@@ -1034,11 +1034,11 @@ footer{
     }
 
     .container{
-        padding:0 18px;
+        padding:0 16px;
     }
 
     .nav{
-        padding:20px 18px;
+        padding:20px 16px;
     }
 
     .about-grid .body,
@@ -1064,11 +1064,14 @@ footer{
         font-size:20px;
     }
 
+    .section-title{
+        font-size:42px;
+    }
+
     .footer-inner .links{
         gap:24px;
     }
 }
-
 @media (min-width:768px){
 
     .mobile-menu .resume{
