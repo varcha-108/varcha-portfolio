@@ -498,7 +498,7 @@ section{
 
     color:#4353F5;
 
-    margin-bottom:16px;
+    margin-bottom:20px;
 }
 
 .section-title{
@@ -1071,6 +1071,17 @@ footer{
     .footer-inner .links{
         gap:24px;
     }
+
+.about-grid{
+    gap:40px;
+}
+
+.projects-grid,
+.exp-list,
+.caps{
+    margin-top:40px;
+}
+   
 }
 @media (min-width:768px){
 
