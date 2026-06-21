@@ -1034,15 +1034,11 @@ footer{
     }
 
     .container{
-        padding:0 20px;
+        padding:0 18px;
     }
 
     .nav{
-        padding:20px 20px;
-    }
-
-    section{
-        padding:90px 20px;
+        padding:20px 18px;
     }
 
     .about-grid .body,
@@ -1052,6 +1048,24 @@ footer{
     .contact p,
     .cap ul{
         font-size:15px;
+    }
+
+    .project .view{
+        font-size:15px;
+    }
+
+    .footer-inner{
+        font-size:15px;
+    }
+
+    .project h3,
+    .exp h3,
+    .cap h3{
+        font-size:20px;
+    }
+
+    .footer-inner .links{
+        gap:24px;
     }
 }
 
