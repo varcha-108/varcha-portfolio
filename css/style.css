@@ -1032,6 +1032,27 @@ footer{
     .ham-desktop{
         display:none;
     }
+
+    .container{
+        padding:0 20px;
+    }
+
+    .nav{
+        padding:20px 20px;
+    }
+
+    section{
+        padding:90px 20px;
+    }
+
+    .about-grid .body,
+    .exp .body,
+    .project .desc,
+    .hero p,
+    .contact p,
+    .cap ul{
+        font-size:15px;
+    }
 }
 
 @media (min-width:768px){
