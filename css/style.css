@@ -1058,11 +1058,15 @@ footer{
         font-size:15px;
     }
 
-    .project h3,
-    .exp h3,
-    .cap h3{
-        font-size:22px;
-    }
+    .section-title{
+    font-size:26px;
+}
+
+.project h3,
+.exp h3,
+.cap h3{
+    font-size:20px;
+}
 
     .footer-inner .links{
         gap:24px;
