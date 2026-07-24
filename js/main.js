@@ -242,7 +242,8 @@ const capabilities = [
             "Responsive Design",
             "Visual Hierarchy",
             "Typography",
-            "Design Systems"
+            "Design Systems",
+            "Color Theory"
         ]
     },
 
@@ -253,9 +254,11 @@ const capabilities = [
 
         l: [
             "Figma",
-            "Framer",
+            "Canva",
             "Notion",
-            "Canva"
+            "ChatGPT",
+            "Claude",
+            "Lovable"
         ]
     }
 
