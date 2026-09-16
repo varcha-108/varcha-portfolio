@@ -72,6 +72,16 @@ const projects = [
         i: "assets/images/eventique.webp",
 
         l: "https://www.behance.net/gallery/230420811/Eventique-Event-Management-Website-Design"
+    },
+
+    {
+    t: "Graphic Design",
+
+    d: "A collection of posters and social media designs exploring visual communication, composition, typography, and creative direction.",
+
+    i: "assets/images/graphic-design.webp",
+
+    l: "https://www.behance.net/gallery/255694263/Graphic-Design-Portfolio"
     }
 
 ];
