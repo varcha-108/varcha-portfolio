@@ -676,6 +676,13 @@ section{
     gap:8px;
 }
 
+/* Center the 5th project card */
+.projects-grid .project:nth-child(5) {
+    grid-column: 1 / -1;
+    width: calc((100% - 24px) / 2);
+    justify-self: center;
+}
+
 
 /* ==========================================
    EXPERIENCE
